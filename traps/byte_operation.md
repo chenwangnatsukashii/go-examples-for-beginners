@@ -28,7 +28,7 @@ $ go run main.go
 
 # 输出如下
 a type = int32, val = 97
-b type = int32, val = 97 
+b type = int32, val = 98 
 c type = int32, val = 195
 ```
 
