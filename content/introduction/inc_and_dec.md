@@ -21,7 +21,7 @@ package main
 
 func main() {
 	i := 1
-	++i // 报错: '--' unexpected
+	++i // 报错: '++' unexpected
 	println(i)
 }
 ```
